@@ -8,3 +8,7 @@
 /checkouts
 /.lein-deps-sum
 /.lein-plugins
+/.lsp
+/.clj-kondo
+/.lein-repl-history
+/.nrepl-port
